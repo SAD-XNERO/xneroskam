@@ -67,14 +67,14 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/SAD-XNERO/xneroskam.git
-* cd sad12/
+* cd xneroskam/
 * chmod 777 *
 * ./Android-Setup.sh
 * ./sad12.sh
 
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/SAD-XNERO/xneroskam.git
-* cd sad12/
+* cd xneroskam/
 * chmod 777 *
 * ./Linux-Setup.sh
 * ./sad.sh
