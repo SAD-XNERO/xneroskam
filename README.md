@@ -37,7 +37,7 @@ When victim enter his credentials, you need to go to original website and use th
 
 ### SCREENSHOT ( KALI )
 ![1](https://media.discordapp.net/attachments/837075743053447168/839353125491179560/sad.png?width=684&height=676)
-![2](https://user-images.githubusercontent.com/55870659/92331173-a8e04800-f042-11ea-8fd9-5aee83441280.png)
+![2](https://media.discordapp.net/attachments/827496581498142750/833389626986463232/image0.png?width=676&height=676)
 
 <br>
 <br>
